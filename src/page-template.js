@@ -1,5 +1,4 @@
 const generateAbout = aboutText => {
-    console.log('hi: ', aboutText);
     if (!aboutText) {
         return '';
     }
